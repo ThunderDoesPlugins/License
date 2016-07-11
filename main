@@ -1,7 +1,15 @@
-1.We reserve any right to modify this license without prior warning
-2.By downloading this plugin it means you will obey this license
-3.We are not responsible for any damange or issue caused on your server for using plugin
-4.You are allowed to modify redestribute or fork as long as credit remain intact
+- We reserve any right to modify this license without prior warning
+- This master license overwrite any part of the sublicense that conflict with main(This) license
+- This plugin is also licensed on Dont Be A Dick License(Thunder's fork) (https://github.com/ThunderDoesPlugins/License/blob/master/Don'tBeADick.md)
+- By downloading this plugin it means you acknowledge and comply to this license
+- We are not responsible for any damage or issue caused on your server for using this plugin
+- You are allowed to modify redistribute or fork part of the code as long as credit remain intact
 	NOT keeping the credit intact includes - but is not limited to - the following instances:
-		4a. Not include creator name under Original Author
-		4b. Modifying the original creators name
+		a. Not include creator name under Original Author
+		b. Modifying the original creator's name
+- You are granted non-commercial use for using this plugin
+	You are not allowed to do the followings:
+		a. Sell part of the code
+		b. this plugin with or without editing part of the code
+		c. using this to gain donation
+- You are free to report any ambiguity on this license 
