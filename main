@@ -1,15 +1,21 @@
-- We reserve any right to modify this license without prior warning
-- This master license overwrite any part of the sublicense that conflict with main(This) license
-- This plugin is also licensed on Dont Be A Dick License(Thunder's fork) (https://github.com/ThunderDoesPlugins/License/blob/master/Don'tBeADick.md)
-- By downloading this plugin it means you acknowledge and comply to this license
-- We are not responsible for any damage or issue caused on your server for using this plugin
-- You are allowed to modify redistribute or fork part of the code as long as credit remain intact
+1. We reserve any right to modify this license without prior warning
+2. This master license overwrite any part of the sublicense that conflict with main(This) license
+3. This plugin is also licensed on Dont Be A Dick License(Thunder's fork) (https://github.com/ThunderDoesPlugins/License/blob/master/Don'tBeADick.md)
+4. By downloading this plugin it means you acknowledge and comply to this license
+5. We are not responsible for any damage or issue caused on your server for using this plugin
+6. You are allowed to modify redistribute or fork part of the code as long as credit remain intact
 	NOT keeping the credit intact includes - but is not limited to - the following instances:
 		a. Not include creator name under Original Author
 		b. Modifying the original creator's name
-- You are granted non-commercial use for using this plugin
+7. You are granted non-commercial use for using this plugin
 	You are not allowed to do the followings:
 		a. Sell part of the code
 		b. this plugin with or without editing part of the code
 		c. using this to gain donation
-- You are free to report any ambiguity on this license 
+		d. earn money by redistributing it, Examples that are forbidden:
+			a. using adfly or similar link shortening service that earn publisher cash
+			b. using service that require user to fill a survey to download and that earns publisher cash
+			c. using file upload sites that display ads and also earns publisher ads
+			d. exceptions that are allowed include
+				a. any form of displaying, showcasing, criticising, explaining, studying are allowed
+8. You are free to report any ambiguity presented on this license 
