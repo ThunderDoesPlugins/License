@@ -1,2 +1,2 @@
 # Repositity for Thunder's Licenses
-All Plugin Uploaded Plugin are Licensed Under License/Main
+All plugins published ThunderDoesPlugin is automatically licensed under Standard license unless said otherwise
